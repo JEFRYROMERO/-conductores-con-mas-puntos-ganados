@@ -1,18 +1,9 @@
-## Getting Started
+Tarea mostrar los conductores con mas puntos ganados (Github)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+El código establece una interfaz gráfica de usuario en Java que se conecta a una base de datos PostgreSQL 
+para mostrar los puntos totales de los conductores de carreras por año.
+Utiliza un JComboBox para seleccionar el año de carrera, una JTable para presentar los datos de puntos
 
-## Folder Structure
+CAPTURA DE PANTALLA DE LA EJECUCION
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![codigo 3](https://github.com/user-attachments/assets/793a8a97-8ab6-4286-b664-1c8506d6e2ef)
